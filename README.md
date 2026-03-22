@@ -1,2 +1,21 @@
-# Insurance-Claim-System
-A full-stack web application designed to streamline the process of submitting, tracking, and managing insurance claims.   The system allows users to create claims, upload details, and track their status, while admins can review and approve or reject claims.
+# 🏥 Insurance Claim Management System
+
+A full-stack application to manage insurance claims, including submission, tracking, and approval workflows.
+
+---
+
+## 🚀 Features
+- Submit and manage insurance claims  
+- Track claim status (Pending / Approved / Rejected)  
+- Admin approval and rejection system  
+- RESTful APIs for backend operations  
+
+---
+
+## 🧑‍💻 Tech Stack
+- **Backend:** Java, Spring Boot  
+- **Frontend:** React (Basic)  
+- **Database:** MySQL / PostgreSQL  
+- **Tools:** Postman, Git  
+
+---
